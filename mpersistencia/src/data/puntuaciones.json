@@ -1,0 +1,17 @@
+[
+  {
+    "id": "partida1",
+    "equipo": "Rojo",
+    "puntos": 10
+  },
+  {
+    "id": "partida2",
+    "equipo": "Azul",
+    "puntos": 50
+  },
+  {
+    "id": "partida3",
+    "equipo": "Azul",
+    "puntos": 120
+  }
+]
